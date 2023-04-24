@@ -1,1 +1,1 @@
-# ExercicioS em sala de aula
+# Exercicios em sala de aula
